@@ -2,7 +2,7 @@
 title = "whoami"
 date = "2014-04-09"
 +++
-
+{{< figure src="/FB.PNG" alt="image" caption="figure-normal (without any classes)" >}}
 Hey my name is **Mihailo Kalinic**, I'm glad you wondered over to see really who I am. Currently I'm 19 and a university student at UTS (University of Technology Sydney) and am currently undertaking the Bachelor of Computing Science (Honours) where now I'm beginning my 3rd year.
 *************************
 # pwd
