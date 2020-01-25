@@ -15,3 +15,18 @@ As my sports hobby I'm really into basketball, having played representative bask
        mihailo@residence:~$ pwd
        C:/Australia/NewSouthWales/
 ****************************
+## *Question*: (i)Why you chose the studio and (ii)what do you want to get out of it?
+
+#### (i)
+
+I chose to take a dive into the Cyber Security: An Offensive Mindset studio because I wanted to get a taste of what cybersecurity really entails. Currently I’ve had very little experience within cybersecurity but have really enjoyed learning about cryptography. This has led me wanting to learn more about cybersecurity and I really believe that this studio is the way to go in increasing my knowledge within such a growing sector of information technology being cybersecurity.
+
+Another contributing factor as to why I’ve chosen to undertake the studio is because of the interaction with industry professionals. With this studio, I thought it would be a great way to allow me to understand the cybersecurity industry within Australia, and additionally network with industry professionals.
+
+#### (ii)
+
+Firstly I would like to broaden my horizons of what cyber security has to offer and understand the various different branches of careers within cybersecurity. Added with this i would also like to understand how the industry interprets cybersecurity threats and start thinking from the business perspective of how threats should be handled most effectively.
+
+Secondly, I would really like to have the ability to start thinking (problem solving) like a hacker, so that I can be apart of the preventative measures that stop cyber attacks. Added to thinking like a hacker I believe this would entail us to take part in some pen testing attacks to really learn how attacks happen and understand the various attack vectors employed.  
+
+Lastly I would possibly like if I could increase my chances of getting a starting career position within IT specifically cybersecurity.
