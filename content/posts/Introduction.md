@@ -36,3 +36,18 @@ Secondly, I would really like to have the ability to start thinking (problem sol
 Lastly I would possibly like if I could increase my chances of getting a starting career position within IT (specifically cybersecurity), by undertaking the studio.
 
 ************
+# My Skills
+> #### What key skills do you bring to the team?
+
+Currently, I believe that my key skills lie within my communicative ability as I’m easy to get along with and I believe that others can also communicate with me very easily. I also bring determination and hard work, as I always make sure to give my best effort to complete all tasks no matter what happens.
+
+
+> ### What skills do you want to develop? 
+
+I want to really develop skills within facilitating within my group’s activity and becoming a leader in which they look too. I currently also would like to develop my technical skills and being able to discuss with my group members technical details to a high level of accuracy.
+
+
+
+
+
+************
