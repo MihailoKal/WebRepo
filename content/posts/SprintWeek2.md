@@ -44,7 +44,7 @@ Down below is an image of one the youtube videos I used to help me fully underst
 Throughout this week we were given the opportunity to go through wargames, I choose to go and do Bandit as the linux commands I know are basic and I haven't had much experience with Linux to where I feel comfortable. The first few levels were all simple and weren't very difficult as I had used all the commands before, progressing through the levels I hadn't used some commands, such as; file, find, uniq and strings. The manual pages were very helpful in allowing me to understand how these commands work, and moreover youtube videos also helped to assist me in understanding how these commands work through demonstrated examples. To pass each level you would have to uncover the password, and I chose to store every password in a text file, and additionally included a little hint of how I completed the level. This can be seen in the image below;   
 
 
-![alt text](/bandit.PNG)
+![alt text](/bandit1.PNG)
 
 *****************
 # *SLO 4)*
