@@ -6,7 +6,7 @@ featuredImg: ""
 ---
 ************
 # Career Plan
-> #### What have I achieved so far
+> ### What have I achieved so far
 
 In terms of a career I have unfortunately yet to secure any position within IT. Whilst I haven't had a job in IT I have had quite a few intern IT interviews for helpdesk type positions.
 
@@ -21,13 +21,13 @@ Currently as I haven't had any career in IT I would like to start in an intern p
 ****************************
 # My Motivation
 
-> #### Why did I choose the studio
+> ### Why did I choose the studio
 
 I choose to take a dive into the Cyber Security: An Offensive Mindset studio because I wanted to get a taste of what cybersecurity really entails. Currently I’ve had very little experience within cybersecurity but have really enjoyed learning about cryptography. This has led me wanting to learn more about cybersecurity and I really believe that this studio is the way to go in increasing my knowledge in cybersecurity especially now that it is such a growing sector within information technology.
 
 Another contributing factor as to why I’ve chosen to undertake the studio is because of the interaction with industry professionals. With this studio, I thought it would be a great way to allow me to understand the cybersecurity industry within Australia, and additionally network with industry professionals.
 
-> #### What do I want to be bale to do at the end of the studio?
+> ### What do I want to be bale to do at the end of the studio?
 
 Firstly I would like to broaden my horizons of what cyber security has to offer and understand the various different branches of careers cybersecurity has to offer within Australia. Added with this I would also like to understand how the industry interprets cybersecurity threats and start thinking from the business perspective of how threats should be handled most effectively.
 
@@ -37,12 +37,12 @@ Lastly I would possibly like if I could increase my chances of getting a startin
 
 ************
 # My Skills
-> #### What key skills do you bring to the team?
+> ### What key skills do you bring to the team?
 
 Currently, I believe that my key skills lie within my communicative ability as I’m easy to get along with and I believe that others can also communicate with me very easily. I also bring determination and hard work, as I always make sure to give my best effort to complete all tasks no matter what happens.
 
 
-> ### What skills do you want to develop? 
+> ### What skills do you want to develop?
 
 I want to really develop skills within facilitating within my group’s activity and becoming a leader in which they look too. I currently also would like to develop my technical skills and being able to discuss with my group members technical details to a high level of accuracy.
 
