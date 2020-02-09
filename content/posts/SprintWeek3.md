@@ -22,7 +22,7 @@ This week was similar to last week in which we were instructed to complete a del
 
 But unfortunately at first I didn't even know which web vulnerability was the most common and additionally didn't know how to use any of the exploits. As such I went through hackspalining and created notes as seen:
 
-### **[here (Web vulnerability notes compiled)](/HANotes.pdf)**
+## **[here (Web vulnerability notes compiled)](/HANotes.pdf)**
 
 Moreover I made significant progress learning about common vulnerabilities, as seen with my hackspalining progression;
 
@@ -41,7 +41,7 @@ Throughout the week I also had issues with understanding the content for my deli
 
 Similar to last week, this week I’ve applied skills well throughout the studio, both inside class hours through attempting OWASP and outside class hours through wargames challenges on overthewire and also going through Security+ content. This week I spent a considerable amount of time going through Security + content and was able to complete the first subsection of the Security+ syllabus. I also have been completing NATAS (from overthewire), which is a web based challenge and as this weeks content focus has been on web exploits and vulnerabilities, as such this allowed me to learn new information contained within websites such as web crawlers and robots.txt and also allowed me to use new tools such as burp suite.
 
-### **[Here is a file containing my Natas write up](/HANotes.pdf)**
+## **[Here is a file containing my Natas write up](/HANotes.pdf)**
 
 (NOTE still making it more comprehensive I have only been able to edit the first few levels)
 
@@ -67,3 +67,9 @@ Additionally, throughout both studio lessons we had our stand-up meetings, throu
 # *SLO 5)*
 
 > ### Conduct critical self, peer, and group review and performance evaluation.
+
+This week whilst tiresome was also a very efficient week for me personally. As such my understanding of concepts has shifted greatly and whilst I still do struggle with understanding some concepts I feel as if I’m bridging this gap. Personally I attribute this through study concepts online and trying to learn as many new concepts as I can in the preparation before the next studio.
+
+Personally I’ve completed all targets I’ve set out for myself this week, these include; delieveriables, war game progressions and CompTIA Security+ progression. An added bonus was that I was able to complete the whole first subsection with the Security+ syllabus which was done via watching professormesser online videos whilst taking notes. This was all made possible by following my timetable that I managed to set out after a self evaluation from the peer stand up meeting. Added my peers have exceptional with many understanding my background knowledge none shy away from helping me understand new concepts being taught and also demonstrating how they use tools. My group this week also did relatively well but time management may have been an issue, as discussed in SLO 4.
+
+To conclude this week I definitely felt as if it was a very strong week and from a performance point of view exceeded my expectations knowing how I’m very prone to procrastination. For the next week I would like to continue going through class content/deliverables whilst also completing my Security+, and more so progressing through war game challenges, so that I can have another successful week alike.
