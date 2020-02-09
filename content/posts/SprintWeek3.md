@@ -41,7 +41,7 @@ Throughout the week I also had issues with understanding the content for my deli
 
 Similar to last week, this week I’ve applied skills well throughout the studio, both inside class hours through attempting OWASP and outside class hours through wargames challenges on overthewire and also going through Security+ content. This week I spent a considerable amount of time going through Security + content and was able to complete the first subsection of the Security+ syllabus. I also have been completing NATAS (from overthewire), which is a web based challenge and as this weeks content focus has been on web exploits and vulnerabilities, as such this allowed me to learn new information contained within websites such as web crawlers and robots.txt and also allowed me to use new tools such as burp suite.
 
-## **[Here is a file containing my Natas write up](/HANotes.pdf)**
+## **[Here is a file containing my Natas write up](/NatasWriteUp.pdf)**
 
 (NOTE still making it more comprehensive I have only been able to edit the first few levels)
 
