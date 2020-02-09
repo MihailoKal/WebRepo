@@ -1,6 +1,6 @@
 ---
 title: 'Week 3 Reflection'
-date: 2020-02-08
+date: 2020-02-09
 draft: false
 featuredImg: ""
 ---
@@ -20,12 +20,18 @@ Alas no external stakeholders were present though I still had the studio facilit
 
 This week was similar to last week in which we were instructed to complete a deliverable task, this week it was on a web exploit. Moreover we were also given the opportunity to test out different types of web vulnerabilities one created instances of an “OWASP Juice Shop’.
 
-But unfortunately at first I didn't even know which web vulnerability was the most common and additionally didn't know how to use any of the exploits. As such I went through hackspalining and created notes as seen: (ADD PDF), moreover I made significant progress learning about common vulnerabilities. (ADD IMAGE of hacksplaining progress)
+But unfortunately at first I didn't even know which web vulnerability was the most common and additionally didn't know how to use any of the exploits. As such I went through hackspalining and created notes as seen:
 
-Throughout the week I also had issues with understanding the content for my deliverable (LFI), as I didn’t understand a few vital components that were needed to know how LFI works. So I had started researching online about HTTP request methods, how directory transversal works, understand /etc/passwd file (and etc/shadow) and also understanding how legacy LAMP hosting websites work. All this was done through a variety of ways including ‘youtubing’, searching documentation, using online learning tools (i.e. portswigger and hacksplaining) and using forums discussing the content, all the following issues were dealt with. Another issue I had encountered was within the deliverable was not understanding how to use a tool to show the attack (burp suite), lucky my peer helped me understand how the proxy work with burp suites and allows us to intercept packets and inspect elements of the HTTP headers to gain valuable information to use the LFI attack against a vulnerable website (we used the tryhackme LFI challenge website given as our vulnerabile website). The video of our presentation
-[can be found here](https://youtu.be/95yDzKIHS9k "LFI Presentation video")
+### **[here (Web vulnerability notes compiled)](/HANotes.pdf)**
 
+Moreover I made significant progress learning about common vulnerabilities, as seen with my hackspalining progression;
 
+![alt text](/Hacksplaining.PNG)
+
+Throughout the week I also had issues with understanding the content for my deliverable (LFI), as I didn’t understand a few vital components that were needed to know how LFI works. So I had started researching online about HTTP request methods, how directory transversal works, understand /etc/passwd file (and etc/shadow) and also understanding how legacy LAMP hosting websites work. All this was done through a variety of ways including ‘youtubing’, searching documentation, using online learning tools (i.e. portswigger and hacksplaining) and using forums discussing the content, all the following issues were dealt with. Another issue I had encountered was within the deliverable was not understanding how to use a tool to show the attack (burp suite), lucky my peer helped me understand how the proxy work with burp suites and allows us to intercept packets and inspect elements of the HTTP headers to gain valuable information to use the LFI attack against a vulnerable website (we used the tryhackme LFI challenge website given as our vulnerable website). The video of my groups demonstration on LFI can be found by clicking the image down below or alternatively clicking
+[here](https://youtu.be/95yDzKIHS9k "LFI Presentation video")
+
+[![IMAGE ALT TEXT HERE](/Recording.PNG)](https://www.youtube.com/watch?v=95yDzKIHS9k&)
 
 
 *****************
@@ -33,8 +39,11 @@ Throughout the week I also had issues with understanding the content for my deli
 
 > ### Apply technical skills to develop, model and/or evaluate designs.
 
-add my natas progression and how i used LFI in level 7
-talk about my sec+
+Similar to last week, this week I’ve applied skills well throughout the studio, both inside class hours through attempting OWASP and outside class hours through wargames challenges on overthewire and also going through Security+ content. This week I spent a considerable amount of time going through Security + content and was able to complete the first subsection of the Security+ syllabus. I also have been completing NATAS (from overthewire), which is a web based challenge and as this weeks content focus has been on web exploits and vulnerabilities, as such this allowed me to learn new information contained within websites such as web crawlers and robots.txt and also allowed me to use new tools such as burp suite.
+
+### **[Here is a file containing my Natas write up](/HANotes.pdf)**
+
+(NOTE still making it more comprehensive I have only been able to edit the first few levels)
 
 
 
@@ -43,7 +52,7 @@ talk about my sec+
 
 > ### Demonstrate effective collaboration and communication skills
 
-As previously mentioned this week we were tasked with a deliverable which was a group presentation on a web exploit or vulnerability. My group chose LFI (Local File Inclusion) as our web vulnerability. As discussed in class the presentation was to portray four main content points mines were; what was the attack and the impact of the attack.Though the work was complete it felt rushed and was left till the night before the presentation as evident through the chat logs
+As previously mentioned this week we were tasked with a deliverable which was a group presentation on a web exploit or vulnerability. My group chose LFI (Local File Inclusion) as our web vulnerability. As discussed in class the presentation was to portray four main content points mines were; what was the attack and the impact of the attack. Though the work was complete it felt rushed and was left till the night before the presentation as evident through the chat logs
 
 ![alt text](/ChatLog.PNG)
 
