@@ -105,7 +105,7 @@ Once my listener was set on my specified port; 2170 (best suburb postcode), all 
 
 ![alt text](/2170.PNG)
 
-As such currently logged in as daemon, we only have a low privilege shell, to escalate our shell I used a python script which escalate me (thanks jason), as seen below;
+As such currently logged in as daemon, we only have a low level shell, to escalate our shell I used a python script which escalate me (thanks jason), as seen below;
 
 ![alt text](/py.PNG)
 
@@ -127,6 +127,25 @@ So i then su into the robot user and entered the alphabet character as the onlin
 
 *************************
 
-# Location
-       mihailo@residence:~$ pwd
-       C:/Australia/NewSouthWales
+For the third and final flag I was really lost and deprived of time I decided to reveal the hint on Try Hack Me which pointed me to nmap.
+
+As such I started up nmap and realized the version the server was running was very old (3.81), I quickly scrambled online to find vulnerabilities and sure enough I did the interactive version of nmap allows users to execute commands within the nmap shell.
+
+![alt text](/interactive.PNG)
+
+With the interactive version of nmap shell commands are executed by using ! and then a command followed after them. Thus executing !bash command like below, will then lead to a new shell to open which can be used with commands as depicted below as well.
+
+![alt text](/nbash.PNG)
+![alt text](/shcom.PNG)
+
+Running commands I ended checking the whole file system and after looking around the file system for a WHILE, I ended up finally finding the last key in the root directory masked as key-3-of-3.txt. Though now that I'm writing this write up I don't understand why I didn't use the find command to get the key as previously they were named key I will put it down to it being 4am whilst finishing the box off.
+
+![alt text](/last.PNG)
+
+And like that I was finally complete :)
+
+![alt text](/done.PNG)
+
+## Extra
+
+As I did not personally find to go to nmap I researched the various methods of privilege escalation and found that nmap was the hint as it contained SUID and sticky bits, which allow users to execute programs/files which necessary they can't as they aren’t the owner or within the group, hence nmap was most probably contained within a SUID flag when searching through the server.
