@@ -10,9 +10,6 @@ featuredImg: ""
 
 This week the studio mentors served as the stakeholders, as no external stakeholder came to the university to present nor did I personally go and find any cybersecurity meetings to attend. As such this week's focus was upon penetration testing of a virtual machine to become the root user within a system, which is also known as ‘boot2root’. Within the class, studio mentor Jason ran through an example penetration testing demonstration against a vulnerable machine called wakanda, where he showed his thinking pattern to progress on through the machine. This included enumerating performing reconnaissance to exploiting vulnerabilities found from this process, all of which feeds back to the anatomy of a pen testing cycle,  that keeps getting referred to within the slides and as depicted below;
 
-
-
-/anatomy.PNG
 ![Pen Test loop](/anatomy.PNG)
 
 
