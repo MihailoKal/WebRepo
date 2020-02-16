@@ -77,7 +77,7 @@ Now when entering the username as Elliot in the username prompt instead of an er
 
 Now that the username is confirmed I figured that I would retry to use wpscan, as hydra took too long. Additionally I chose to shorten down the dictionary file by piping it through uniq so that no duplicate entries exist (suggested by mentor to use uniq). As such I used the following command;
 
-# Location
+
        wpscan --url http://10.10.30.145 --passwords ./newsort.dic --usernames elliot
 
 And it gave me a hit for the password as seen below;
@@ -89,7 +89,7 @@ Finally I was into wordpress after a very long time :). Through reading online a
 
 After going through the whole page MANY, MANY i was able to see that a php file existed in the theme, specifically it was a 404.php template that existed, so I knew that I also could possibly  upload a reverse shell there. Researching online a reverse shell existed on my kali system under the file;
 
-# Location
+
        /usr/share/webshells/php/php-reverse-shell.php
 
 I then added the file as below and edited the IP and port number respectively to my own settings and updated the file.
@@ -98,7 +98,7 @@ I then added the file as below and edited the IP and port number respectively to
 
 Now that I’ve updated the 404 file, I set netcat (nc) to listen to the website this is fundamental in a reverse shell (we act as the listener). As such I wrote the command;
 
-# Location
+
        nc -lvp 2170
 
 Once my listener was set on my specified port; 2170 (best suburb postcode), all I needed to do was enter a URL that would exist i.e(/thisfiledirwontexist), and the 404 reverse shell I uploaded will go to work. Once the 404 shell i uploaded works the listen set will connect, as displayed below;
