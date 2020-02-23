@@ -16,4 +16,4 @@ Open admin is a box hosted on Hack The Box, with the main objective to eventuall
 Due to the terms of service on Hack The Box this access to this write up must be password protected until this 'machine' retires. Access has been given to all users whom need access to the system (i.e studio mentors), the hyperlink below will give access with the correct password;
 
 
-## **[Open Admin PDF (password protected)](/HANotes.pdf)**
+## **[Open Admin PDF (password protected)](/openAdmin.pdf)**
