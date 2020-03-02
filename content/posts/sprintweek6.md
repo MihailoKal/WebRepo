@@ -16,7 +16,7 @@ Whilst presenting to more technical inclined stakeholders (former class teachers
 Moreso within the roadshow I also had the opportunity to present to audiences with no technical knowledge of the cyber security industry. Whilst presenting the demonstration many were intrigued by the drastic impacts a simple outdated service/application has upon a system. Additionally whilst showing misconfigurations within the demonstration that ended revealing a unhashed password that had subsequently been reused by the user, I found it interesting how many people had generally admitted to re-using the same passwords for a wide variety of services (possibly all :/ ). From these interactions I was able to gather that general users within systems also posed as security risks due to their practices and that security teams also have to look over a user's actions as their misunderstanding could also pose as a security vulnerability to services and applications. Down below is an image of my group captured during one of my roadshow presentations;
 
 
-![Presentation Image](/presentation.PNG)
+![Presentation Image](/presentation-min.PNG)
 
 Within this week I was able to personally engage with many individuals who had differing perceptions and knowledge levels about the cyber security industry. With gathering all these varying perceptions individuals have about the industry I was able to understand how professionals have to deal with varying individuals whilst explaining security concepts to clients of differing technical abilities.
 
