@@ -90,3 +90,29 @@ Additionally the non face to face hours (Wednesday and late Monday & Thursday) w
 # *SLO 5)*
 
 > ### Conduct critical self, peer, and group review and performance evaluation.
+
+With the studio each week were offered the opportunity to effectively self evaluate upon our completion of content within the studio through the weekly reflections that needed to be submitted in each sprint. These reflections really served to keep my mind with the goals I had set out and in a way made me commit to the goals as I had already spoken about focusing myself to complete them. Additional to the self criticisms we complied, we also had feedback given by our tutors to balance out the personal self criticisms and see which personal reflections were perceived by others to be justified. Personally I never had too much inconsistency from my reflection to what my tutors spoke to me about and I felt as if i was criticising myself in proper due accordance.
+
+As such conducting these self reviews through the studio, has allowed me to now see how much I have grown as the studio has progressed. This is best seen with my technical abilities I have acquired from the studio with now being able to complete boxes on Hack The Box from where I began as a novice in the field.  I also feel as if my character has grown as well, because of all the struggles I’ve had with understanding the content within the studio but managing to complete all tasks really brought out the resilience in me. With this in mind i can personally say that I more than pleased with the how the studio has turned out for me and I believe it has been a subject that I will still refer back to for content in my near future.
+
+My group and peers were also critical within the studio experience I’ve had as the team comradery we all have built up over the progression of the weeks, throughout having to complete tasks that challenged us we exceeded all as a team in communicating this to each other and also portraying it to our studio mentors.
+
+Lastly I also believe that I have had a great performance with the studio and that I have achieved most of the things I've set out for myself, and this is evident throughout the reflections I’ve submitted where I communicated that my performance most weeks was efficient as possible.
+
+
+
+*****************
+
+# Conclusion
+
+I started out this subject as a pure novice but really believe I have expanded with my technical and personal abilities by attending this studio. As such to start the studio I had developed a list of goals they were;
++ Gain practical hacking experience
++ Interact with industry professionals
++ Gain the mindset of a hacker,
++ Possibly land a position within IT
+
+The process of encapsulating and learning throughout the studio has been a very rewarding experience for me personally . As such from my knowledge standpoint I believe that I have gained a practical side into hacking by undertaking this studio as it concentration on this element through using Hack THe Box Machines, I now feel as if I have some experience with hacking and can now somewhat understand some methodologies used in very big cyber attacks.
+
+Additionally I’ve also found that this was a great studio to interact with industry professionals (as seen in SLO1), we had a bunch of external industry expertise come and give advice for us in the studio. As such I’ve taken aboard some of this advice and have chosen to really leverage this knowledge in the future when needed. As such I also feel as if I’ve made a massive progression towards having the mindset of a hacker, as through studying the penetration testing cycle I can implement attacks that industry penetration testers use.
+
+Finally with landing a possible IT position, come to the end of this studio I unfortunately have not achieved any role yet within the industry. But through the studio I’ve made strides on achieving this as I’ve gained many new connections on LinkedIn, been able to further my resume with adding content I’ve learnt within the studio and also having mentored feedback by professors for applying for certain positions and then reviewing my resume/s. Moreover completing this studio has given me the confidence to apply for more roles as now I can say that I can possibly fit under the category of an Intern/Junior Security Analyst.
