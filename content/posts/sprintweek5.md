@@ -62,6 +62,10 @@ Within this week I spent a lot of time communicating with studio mentor Jason on
 
 ![Jason](/jsonhelp.PNG)
 
+I also had one of my peers within the studio named David help me in the beginning fazes of completing the box as I seemed to be going down the wrong path. He helped hint me towards the correct direction, such image of our chat log can been seen down below, where collaborating with him allowed me to progress quicker in the box;
+
+![David](/david.PNG)
+
 Similar to all previous weeks we also had our stand up meetings, in this week's talk to the class I felt as if I gained much more confidence with my strengths and this communication with class members really allowed me to reflect on the experience thus far and showed me how far I’ve progressed with my skills and also with communicating to other for help with content. Also coming in on the Wednesday help session (even though VPN services were terrible) really helped me brainstorm my next points of emphasis in my box as I was able to interact with other studio members and talk to them about their current struggles, with the box.
 
 *****************
@@ -69,7 +73,9 @@ Similar to all previous weeks we also had our stand up meetings, in this week's 
 
 > ### Conduct critical self, peer, and group review and performance evaluation.
 
-Upon reflection this week has certainly been rewarding and beneficial as all tasks/goals I set out at the start of the week were completed. As such performance wise for me personally was going great as this week I has set myself a much more flexible and robust timetable that allowed for daily inconveniences to not tamper with other activities I had planned and hence allowed me to have such a strong performing week in terms of efficiency. This was great as last week I felt that my time management was a main issue that really held me back. Though one issue I had that could be improved upon was my write up, as I didn’t keep my progress of my box up to date I found myself forgetting tools I used and moreover it ended up taking a lot of time, that could have been used doing other things, over the next coming week I want to improve this and complete my write up simultaneously.
+Upon reflection this week has certainly been rewarding and beneficial as all tasks/goals I set out at the start of the week were completed. As such performance wise for me personally was going great as this week I has set myself a much more flexible and robust timetable that allowed for daily inconveniences to not tamper with other activities I had planned and hence allowed me to have such a strong performing week in terms of efficiency. This was great as last week I felt that my time management was a main issue that really held me back. Though one issue I had that could be improved upon was my write up, as I didn’t keep my progress of my box up to date I found myself forgetting tools I used and moreover it ended up taking a lot of time, that could have been used doing other things, over the next coming week I want to improve this and complete my write up simultaneously. But however I did manage to complete the open admin box and am very proud of thi, such image of mu complete can be seen in the image below;
+
+![OpenAdmin](/completed.PNG)
 
 Moreover I also feel as if I need to be less stressed when undertaking activities/tasks, as noted with both my studio mentors in our mandatory one on one meeting, was that I had not become very easily frustrated when I could not complete a task. Personally I will try to improve on this over the coming week by allowing myself time to relax and reassuring myself that I will eventually figure out an answer to the issue I may be dealing with.
 
