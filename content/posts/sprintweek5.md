@@ -44,7 +44,7 @@ As such this week's issues were mostly within the deliverable task of using Open
 
 This week most of my time was spent on the deliverable activity, where I ended up become ‘root user’ on the system, the write up down below contains all each step I’ve taken to completing the task and shows all technical tools and concepts I’ve used for completing the deliverable;
 
-** [Week 5 Deliverable](https://mikik.me/posts/devliverableweek5/) **
+** [Week 5 & 6 Deliverable](https://mikik.me/posts/devliverableweek5/) **
 
 Throughout this week and as mentioned last week, I tried to really implement the penetration testing cycle into my attack methodology so that I could more realistically simulate how a ‘real world’ penetration tester would think. Personally I believe that I did very well with the discovery/enumerating phase as I would relentlessly not stop uncovering as much information as I could, but I still need to develop upon technical skill within the exploitation phase as this is where I feel very weak.
 

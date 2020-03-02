@@ -1,6 +1,6 @@
 ---
 title: 'Week 6 Reflection'
-date: 2020-03-02
+date: 2020-03-01
 draft: false
 featuredImg: ""
 ---
@@ -46,8 +46,7 @@ As such we also were tasked with the roadshow presentation this week, where my t
 My technical skills this week were mostly contained within the deliverable activity where I managed to gain full system access with a root users shell. As such the write-up/documentation below contains and portrays the technical abilities I’ve implemented and new skills gained through completing the tasks at hand;
 
 DELIVERABLE LINK TO TRAVERXEC
-** [Week 6 Deliverable]() **
-
+** [Week 6 Deliverable](/Traverxec-Write-Up.pdf) **
 
 As I’ve applied in previous weeks, this week I’ve ultimately made sure to consider the penetration testing cycle/methodology into my attack vectors when completing my deliverable so I can further mimic attack designs that are used within the professional industry. Also I’ve continued watching through IppSec going through retired Hack The Box machines so that I can learn more practically how tools I possibly haven’t used before are implemented and also process through the technical skills he uses so I can emulate them..
 
@@ -65,7 +64,7 @@ With the roadshow presentation teams already formed this week we effectively sta
 
 Further we also arranged to come in as a group on Wednesday in which we practiced our presentations, this allowed us to see our weakness and allow us to improve with more practice. Also studio mentor Jason observed our presentation and gave us feedback and made my group and I really rethink our presentation and structure in such a way that it becomes more appealing to audiences. With this collaboration and communication with each other and with mentor Jason we effectively made sure we had a presentation that would last us throughout the roadshow event.
 
-The final standup meeting of the studio was also another avenue where my communication and collaboration skills played a factor within the studio as effectively communicating my strength, weaknesses and goals had allowed me to reflect on the tasks that I needed to complete being; the deliverable box and presentation, and really evaluate my trajectory and see if I'm going in the correct direction.
+The final standup meeting of the studio was also another avenue where my communication and collaboration skills played a factor within the studio as effectively communicating my strength, weaknesses and goals had allowed me to reflect on the tasks that I needed to complete being; the deliverable box and presentation, and really allowed me to evaluate my trajectory and see if I'm heading in the right direction.
 
 
 
