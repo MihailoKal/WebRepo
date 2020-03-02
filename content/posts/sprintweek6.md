@@ -74,7 +74,9 @@ The final standup meeting of the studio was also another avenue where my communi
 
 > ### Conduct critical self, peer, and group review and performance evaluation.
 
-Reflecting upon the final week of the studio, I feel as if personally it has been an enriching experience but also a very time consuming week with all the content wrapping up, but in the end I managed to stay on path and complete all the tasks that were expected by the studio facilitators. Personally I also feel as if my technical skills have been furthered this week with working through my deliverable.
+Reflecting upon the final week of the studio, I feel as if personally it has been an enriching experience but also a very time consuming week with all the content wrapping up, but in the end I managed to stay on path and complete all the tasks that were expected by the studio facilitators. Personally I also feel as if my technical skills have been furthered this week with working through my deliverable task of the Traverxec box, down below is an image from Hack The Box showing that I got the correct root.txt and completed the box fully.
+
+![Traverxec Box completed](/goal.PNG)
 
 Evaluating my performance this week, I found that it was easy for me to complete tasks at hand as throughout the roadshow my team was very good at communicating which allowed us all to complete our work. And also with my deliverable I found that throughout the weeks I’ve gained the skills necessary to complete the task much quicker as enumerating became much easier for me as I being to become more accustomed to the tools used within penetration testing. Whilst all tasks were completed in due time I found that this week procrastination started to kick in and that towards the later half of the week I slowed down my progress. This really affected me as though all studio content was completed, I didn’t progress on too much on extra curricular content specific to the Security+, which is something that I want to complete and have been encouraged by the studio to complete to continue my studies to improve my cyber security knowledge.
 
