@@ -6,7 +6,7 @@ featuredImg: "/osintpres.PNG"
 ---
 *****************
 # OSINT
-Over the second week at university, I had the pleasure to present to the UTS Cyber Security (CSEC), at the first introductory event as a committee member. My presentation was based on OSINT (Open Source Intelligence), where I went over; the basics, discussed the reasons for OSINT within cyber, OSINT's implementations in industry and lastly presented the OSINT framework in my explanation about OSINT. 
+Over the second week at university, I had the pleasure to present to the UTS Cyber Security Society (CSEC), at the first introductory event as a committee member. My presentation was based on OSINT (Open Source Intelligence), where I went over; the basics, discussed the reasons for OSINT within cyber, OSINT's implementations in industry and lastly presented the OSINT framework in my explanation about OSINT. 
 
 After completing the explanatory section of the presentation I went on to present the OSINT challenge I made (available for viewing on UTS: CSEC slack upon membership).  
 
